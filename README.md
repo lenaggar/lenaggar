@@ -1,5 +1,3 @@
-Hi there 👋 I'm a Web Software Engineer at [DataSnipper](https://www.datasnipper.com/) with over seven years of **Web Engineering** experience at various companies like [Miro](https://miro.com/), [Delivery Hero](https://www.deliveryhero.com/) and [Seera](https://www.seera.sa/).
-
 ### A little backstory 🔙
 
 My professional career started in 2012 working as an Asset Integrity Engineer in Oil and Gas. I leveraged Microsoft Excel a lot to streamline processes and drive efficiency in my teams' workflow.
@@ -15,7 +13,3 @@ Constantly, I find myself enjoying working on team-wide frontend platform improv
 ### A new interest 👀
 
 Recently, I have been investing a lot in learning Rust, and I am excited about leveraging it with WASM (web assembly) to create performance-heavy UIs.
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/lenaggar/) for a more detailed description of my full work experience, education, certification and recommendations. You can get in touch with me by email at [naggar@hey.com](mailto:naggar@hey.com).
-
-Are you hiring for an ambitious engineering team? Let's talk!
